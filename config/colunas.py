@@ -1,0 +1,27 @@
+colunas = [
+    "Turmas",
+    "Responsável",
+    "Secretaria/autarquia",
+    "E-mail",
+    "Endereço",
+    "Participantes",
+    "Autorização",
+    "Lista de presença",
+    "Publicações - Instagram",
+    "Publicações - Facebook",
+    "Publicações - Outras",
+
+    "Ano",
+    "Status/situação atendimento",
+    "Data",
+    "Número participantes",
+    "Formalização da ação",
+    "Foto da ação",
+
+    "Indicadores - Data",
+    "Indicadores - Nome da escola ou setor",
+
+    "Indicadores - Conteúdos e temas abordados",
+    "Indicadores - Visita do RioPretoPrev Itinerante",
+    "Indicadores - Tempo dedicado ao diálogo/exposição"
+]
