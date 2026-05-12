@@ -164,13 +164,14 @@ class App(ctk.CTk):
 
             dados["Foto da ação"] = destino
 
-        salvar_no_excel(
+        salvou = salvar_no_excel(
             self.arquivo_path,
             dados,
             colunas
         )
 
-        self.mostrar_sucesso()
+        if salvou:
+            self.mostrar_sucesso()
 
     def mostrar_sucesso(self):
 
