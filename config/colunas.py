@@ -10,15 +10,16 @@ colunas = [
     "Publicações - Instagram",
     "Publicações - Facebook",
     "Publicações - Outras",
-
     "Ano",
     "Status/situação atendimento",
     "Data",
     "Número participantes",
     "Formalização da ação",
     "Foto da ação",
-
-    "conte",
-    "visita",
-    "Tempo dedicado"
+    # Aqui é onde estava o conflito, agora limpo:
+    "Indicadores - Data",
+    "Indicadores - Nome da escola ou setor",
+    "Indicadores - Conteúdos e temas abordados",
+    "Indicadores - Visita do RioPretoPrev Itinerante",
+    "Indicadores - Tempo dedicado ao diálogo/exposição"
 ]
